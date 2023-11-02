@@ -1,0 +1,24 @@
+.iconStyle {
+  color: #7c58d3 !important;
+  text-align: center !important;
+  font-size: 26px !important;
+  font-style: normal !important;
+  font-weight: 900 !important;
+  line-height: 26px !important;
+}
+.benH1 {
+  color: #0e081e !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 30px !important;
+}
+
+.benP {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}
