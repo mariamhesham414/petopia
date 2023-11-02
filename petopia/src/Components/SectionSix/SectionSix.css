@@ -1,0 +1,49 @@
+.sixdiv {
+  background: url(../../assets/Background.svg);
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.sixHead {
+  color: #fff !important;
+  text-align: center !important;
+  font-size: 32px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 46px !important;
+}
+
+.sixP {
+  color: #fff !important;
+  text-align: center !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 25px !important;
+}
+
+.btnSubscribe {
+  border-radius: 8px !important;
+  border: 2px solid #ffda47 !important;
+  background: #ffda47 !important;
+  color: #0e081e !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+  text-transform: capitalize !important;
+}
+
+.textfield__label {
+  color: #fbf9ff !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-radius: 8px !important;
+  border: 1px solid #cdccce !important;
+}

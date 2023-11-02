@@ -1,0 +1,48 @@
+.secFourLeft {
+  background: #fcdcb5;
+}
+.secFourRight {
+  border-radius: 8px;
+  background: #ffda47;
+}
+.secFourRightH1 {
+  color: #0e081e !important;
+  font-size: 30px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 36px !important;
+}
+.fourBtn {
+  border-radius: 8px !important;
+  background: #7c58d3 !important;
+  color: #fff !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  text-transform: capitalize !important;
+}
+
+.fourH1 {
+  color: #0b0417 !important;
+  font-size: 46px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 46px !important;
+}
+
+.fourP {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
+
+.shopNow {
+  color: #7c58d3 !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+}
