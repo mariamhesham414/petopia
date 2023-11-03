@@ -1,0 +1,66 @@
+.postBtn {
+  border-radius: 8px !important;
+  background: #ffda47 !important;
+  color: #1c103b !important;
+  /* text-align: right !important; */
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 19px !important;
+}
+
+.bgImage {
+  border-radius: 5px;
+  background-position: center;
+  background-size: cover;
+  /* background-image: url(../../assets/post1.png); */
+}
+
+#bgImg1 {
+  background-image: url(../../assets/post1.png) !important;
+}
+
+#bgImg2 {
+  background-image: url(../../assets/post2.png);
+}
+
+#bgImg3 {
+  background-image: url(../../assets/post3.png);
+}
+
+#bgImg4 {
+  background-image: url(../../assets/post4.png);
+}
+
+#bgImg5 {
+  background-image: url(../../assets/post5.png);
+}
+
+#bgImg6 {
+  background-image: url(../../assets/post6.png);
+}
+
+.iconText {
+  color: #1c103b !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 19px !important;
+}
+
+.postHead {
+  color: #0e081e !important;
+  font-size: 24px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: normal !important;
+}
+
+.postP {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}

@@ -32,7 +32,7 @@ const SectionSix = () => {
         >
           <Grid xs={4}>
             <Typography
-              sx={{ position: "relative", left: "-150px", top: "50px" }}
+              sx={{ position: "relative", left: "-150px", top: "40px" }}
             >
               <img src={OrangeDog} alt="OrangeDog" />
             </Typography>
@@ -97,7 +97,57 @@ const SectionSix = () => {
           </Grid>
           <Grid xs={4}>
             <Typography>
-              <img src={GrayDog} alt="GrayDog" width={"100%"} />
+              <img
+                src={GrayDog}
+                alt="GrayDog"
+                width={"100%"}
+                style={{
+                  zIndex: "4",
+                  position: "relative",
+                }}
+              />
+              <svg
+                width="130"
+                height="35"
+                viewBox="0 0 141 35"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                style={{
+                  zIndex: "0",
+                  position: "absolute",
+                  left: "910px",
+                  top: "265px",
+                }}
+              >
+                <ellipse
+                  cx="70.5"
+                  cy="17.5"
+                  rx="70.5"
+                  ry="17.5"
+                  fill="#4C4B50"
+                />
+              </svg>
+              <svg
+                width="130"
+                height="35"
+                viewBox="0 0 141 35"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                style={{
+                  zIndex: "0",
+                  position: "absolute",
+                  left: "1045px",
+                  top: "265px",
+                }}
+              >
+                <ellipse
+                  cx="70.5"
+                  cy="17.5"
+                  rx="70.5"
+                  ry="17.5"
+                  fill="#4C4B50"
+                />
+              </svg>
             </Typography>
           </Grid>
         </Grid>
