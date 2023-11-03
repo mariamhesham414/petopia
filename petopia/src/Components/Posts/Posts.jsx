@@ -17,7 +17,8 @@ const Posts = (props) => {
           }}
         >
           <Typography
-            sx={{ position: "relative", left: "253px", top: "-15px" }}
+            align="center"
+            sx={{ position: "relative", left: "127px", top: "-14px" }}
           >
             <Button className="postBtn">{props.btn}</Button>
           </Typography>

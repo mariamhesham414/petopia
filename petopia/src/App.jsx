@@ -1,5 +1,6 @@
 // import Benifits from "./Components/Benifits/Benifits";
 import Curves from "./Components/Curves/Curves";
+import SectionEight from "./Components/SectionEight/SectionEight";
 import SectionFive from "./Components/SectionFive/SectionFive";
 import SectionFour from "./Components/SectionFour/SectionFour";
 import SectionNine from "./Components/SectionNine/SectionNine";
@@ -24,7 +25,7 @@ function App() {
         <SectionSix />
         <SectionSeven />
       </div>
-      {/*  */}
+      <SectionEight />
       <div style={{ paddingLeft: "12%", paddingRight: "12%" }}>
         <SectionNine />
       </div>

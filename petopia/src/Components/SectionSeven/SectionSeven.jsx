@@ -21,7 +21,6 @@ const SectionSeven = () => {
             <Posts
               class="bgImg1"
               btn="TRAINING"
-              sx={{ backgroundImage: "url(../../assets/post1.png)" }}
               head="5 Crazy Things Dogs Do When Left Alone At Home"
               p="Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
             />
