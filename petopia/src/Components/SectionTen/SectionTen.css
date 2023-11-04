@@ -1,0 +1,105 @@
+.footerText {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}
+.footerNum {
+  color: #1c103b !important;
+  font-size: 24px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+}
+
+.footerNumInfo {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}
+
+.footerhead {
+  color: #9c5bf5 !important;
+  font-size: 24px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+}
+
+.Days {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
+
+.Times {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 26px !important;
+}
+
+.links {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
+
+.pinklinks::before {
+  content: "• ";
+  color: #ff47a2;
+}
+
+.lightpinklinks::before {
+  content: "• ";
+  color: #fbd;
+}
+
+.newsText {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
+
+.textfield_label {
+  color: #675d6b !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  background-color: white !important;
+}
+.btnArrow {
+  border-radius: 8px !important;
+  background: #7c58d3 !important;
+  color: #fff !important;
+  font-size: 23px !important;
+  font-style: normal !important;
+  font-weight: 900 !important;
+  line-height: normal !important;
+}
+
+.copyRight {
+  color: #675d6b !important;
+  font-family: Lato !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 23px !important;
+}

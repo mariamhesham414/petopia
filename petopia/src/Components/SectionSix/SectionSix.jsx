@@ -68,28 +68,47 @@ const SectionSix = () => {
                   }}
                 >
                   <Grid sx={10}>
-                    <Typography>
-                      <TextField
-                        id="outlined-basic"
-                        label="Type your Email"
-                        variant="outlined"
-                        color="secondary"
-                        className="textfield"
-                        InputLabelProps={{ className: "textfield__label" }}
-                        sx={{}}
-                      />
-                    </Typography>
-                  </Grid>
-                  <Grid sx={5} height={"100%"}>
-                    <Typography height={"100%"}>
-                      <Button
-                        variant="contained"
-                        size="large"
-                        className="btnSubscribe"
+                    {/*  */}
+                    <Grid
+                      container
+                      spacing={1}
+                      columns={16}
+                      sx={{
+                        display: "flex",
+                        justifyContent: "space-between",
+                        mt: 4,
+                      }}
+                    >
+                      <Grid xs={11}>
+                        <TextField
+                          id="outlined-basic"
+                          label="Type your Email"
+                          variant="outlined"
+                          color="secondary"
+                          className="textfield"
+                          InputLabelProps={{ className: "textfield__label" }}
+                          sx={{}}
+                        />
+                      </Grid>
+                      <Grid
+                        xs={5}
+                        className="btnArrow"
+                        sx={{
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                        }}
                       >
-                        Subscribe
-                      </Button>
-                    </Typography>
+                        <Button
+                          variant="contained"
+                          // size="large"
+                          className="btnSubscribe"
+                          sx={{ height: "100%" }}
+                        >
+                          Subscribe
+                        </Button>
+                      </Grid>
+                    </Grid>
                   </Grid>
                 </Grid>
               </Typography>

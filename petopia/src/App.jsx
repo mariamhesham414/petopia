@@ -7,6 +7,7 @@ import SectionNine from "./Components/SectionNine/SectionNine";
 import SectionOne from "./Components/SectionOne/SectionOne";
 import SectionSeven from "./Components/SectionSeven/SectionSeven";
 import SectionSix from "./Components/SectionSix/SectionSix";
+import SectionTen from "./Components/SectionTen/SectionTen";
 import SectionThree from "./Components/SectionThree/SectionThree";
 import SectionTwo from "./Components/SectionTwo/SectionTwo";
 import Header from "./Pages/Header";
@@ -29,7 +30,7 @@ function App() {
       <div style={{ paddingLeft: "12%", paddingRight: "12%" }}>
         <SectionNine />
       </div>
-      {/*  */}
+      <SectionTen />
     </>
   );
 }
