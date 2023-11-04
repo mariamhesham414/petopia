@@ -92,7 +92,7 @@ const SectionFour = () => {
                 style={{
                   position: "absolute",
                   left: "1210px",
-                  top: "1910px",
+                  top: "1897px",
                   height: "190px",
                 }}
               />
@@ -130,7 +130,7 @@ const SectionFour = () => {
                 style={{
                   position: "absolute",
                   left: "1210px",
-                  top: "2107px",
+                  top: "2095px",
                   height: "190px",
                   width: "140px",
                 }}
