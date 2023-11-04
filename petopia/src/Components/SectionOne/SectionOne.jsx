@@ -17,7 +17,7 @@ const SectionOne = () => {
         variant="div"
         component="div"
         color="initial"
-        sx={{ display: "flex", justifyContent: "space-between", mt: 15 }}
+        sx={{ display: "flex", justifyContent: "space-between", mt: 10 }}
       >
         <ListItem sx={{ gridRow: "1", gridColumn: "span 2" }}>
           <Typography variant="div" component="div" color="initial">
