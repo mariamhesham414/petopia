@@ -1,0 +1,42 @@
+.contactDiv {
+  border-radius: 8px;
+  border: 2px solid #ebe5f7;
+
+  background: #fff;
+}
+.iconDiv {
+  width: 70px;
+  height: 70px;
+  background-color: #ebe5f7;
+  color: #7c58d3;
+  text-align: center;
+  font-style: normal;
+  line-height: 60px !important;
+  border-radius: 50%;
+}
+
+.contactDiv:hover {
+  border-radius: 8px;
+  border: 2px solid #7c58d3;
+  background: #fff;
+  .iconDiv {
+    background-color: #7c58d3;
+    color: #ebe5f7;
+  }
+}
+
+.contacts {
+  color: #0e081e !important;
+  font-size: 22px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 30px !important;
+}
+.contactsInfo {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 25px !important;
+}

@@ -1,0 +1,53 @@
+.threeBox {
+  background: url(../../assets/PathAndPaws.svg) #fff !important;
+  background-position: center !important;
+  background-size: cover !important;
+  border-radius: 8px !important;
+  border: 0px solid transparent !important;
+  height: 300px;
+}
+.threeBox:hover {
+  background-image: url(../../assets/PathAndPawsPurple.svg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+  /* height: 300px; */
+
+  .boxHead,
+  .boxText,
+  .boxPrice {
+    color: #fff !important;
+  }
+  .boxService {
+    color: #ffda47 !important;
+  }
+}
+.boxHead {
+  color: #0e081e !important;
+  font-size: 24px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+}
+.boxText {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
+.boxPrice {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 26px !important;
+}
+.boxService {
+  color: #7c58d3 !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 30px !important;
+}

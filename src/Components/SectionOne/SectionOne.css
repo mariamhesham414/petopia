@@ -1,0 +1,23 @@
+.secOneText {
+  color: #7c58d3 !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: 19px !important; /* 118.75% */
+  text-transform: uppercase !important;
+}
+.secOneh1 {
+  color: #0e081e !important;
+  font-size: 65px !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  line-height: 71px !important; /* 104.412% */
+}
+.secOneText2 {
+  color: #1c103b !important;
+  font-family: Lato !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important; /* 144.444% */
+}
